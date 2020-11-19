@@ -1,6 +1,7 @@
 # CMIP6
 
-See this [notebook](https://github.com/climate-change-database/cc-notebooks/blob/master/global_mean_surface_temp-mistral.ipynb) for how this data was created.
+* data provider: See this [notebook](https://github.com/climate-change-database/cc-notebooks/blob/master/global_mean_surface_temp-mistral.ipynb) for how this data was created (at DKRZ).
+* data users: See this [notebook](https://github.com/climate-change-database/cc-notebooks/blob/master/cc-plot-ensemble.ipynb) for how to work with the data.
 
 ## known issues
 
