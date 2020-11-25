@@ -1,3 +1,3 @@
 # cc-data
 
-spatial aggregated cmip and cordex data
+Spatial aggregated cmip and cordex data on a monthly resolution.
